@@ -15,7 +15,7 @@ From there I was able to load the data into the python script
   seaborn
 
   # How to run
-    First, install dependancies and install the jupyter notebook file in the project files folder. Second, for now you will need to copy and paste the data points from the CSV file but in the future I plan to add a front end interface that would allow users to select patient numbers to see the predictions. Lastly, you will need to paste the data into the second to last cell where the existing data already is. After all this, you will be able to see the prediction made by the logistic regression algorithm.
+  First, install dependancies and install the jupyter notebook file in the project files folder. Second, for now you will need to copy and paste the data points from the CSV file but in the future I plan to add a front end interface that would allow users to select patient numbers to see the predictions. Lastly, you will need to paste the data into the second to last cell where the existing data already is. After all this, you will be able to see the prediction made by the logistic regression algorithm.
 
   
 
