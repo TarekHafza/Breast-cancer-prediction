@@ -1,3 +1,4 @@
+
 # Breast-cancer-prediction
 In the final project for the data analysis bootcamp, we will be exploring the ways we can utilize machine learning to predict whether or not a patient has breast cancer. 
 
@@ -18,7 +19,7 @@ From there I was able to load the data into the python script
   First, install dependancies and install the jupyter notebook file in the project files folder. Second, for now you will need to copy and paste the data points from the CSV file but in the future I plan to add a front end interface that would allow users to select patient numbers to see the predictions. Lastly, you will need to paste the data into the second to last cell where the existing data already is. After all this, you will be able to see the prediction made by the logistic regression algorithm.
 
   # Random Forest Python Script
-<<<<<<< Yao's
+
 # Breast-cancer-prediction 
 # Data process
 Take the .csv file and convert it to the .db file.
@@ -32,8 +33,4 @@ matplotlib.pyplot, numpy, pandas
 ## Usage:
 Train a Random forest model using existing data, and test the accuracy.
 This model could be used in future breast cancer diagnosis prediction.
-
-
-
-  
 
